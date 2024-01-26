@@ -1,0 +1,37 @@
+<html>
+<head>
+    <script type="text/javascript" src="landmineGame.js"></script>
+    <script type="text/javascript" src="boardDisplay.js"></script>
+    <style>
+        button:focus {
+            outline: medium dashed #bf40bf;
+        }
+        
+        a:focus {
+            outline: medium dashed #bf40bf;
+        }
+
+        .boardSquare {
+            display:inherit;
+            visibility: inherit;
+            width: 50px;
+            height: 50px;
+        }
+        
+        /* Grid styles in-built into board-display */
+    </style>
+</head>
+<body>
+    <div id="boardDisplay1" is="board-display" width="8" height="8"></div>
+    <br>
+    <p id="gameText1"></p>
+    <br>
+    <div id="inputs1">
+        <button id="movePlayerUpButton" onclick="movePlayerUpButtonPressed()">Move Up</button>
+        <button id="movePlayerDownButton" onclick="movePlayerDownButtonPressed()">Move Down</button>
+        <button id="movePlayerLeftButton" onclick="movePlayerLeftButtonPressed()">Move Left</button>
+        <button id="movePlayerRightButton" onclick="movePlayerRightButtonPressed()">Move Right</button>
+    </div>
+    <br>
+</body>
+</html>

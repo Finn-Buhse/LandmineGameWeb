@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MineGameAPI", "MineGameAPI\MineGameAPI.csproj", "{86B459F1-B24A-4441-88D8-2F0EEC62C647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{7ED20003-FC97-4BA8-B99E-3D83F998A7B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86B459F1-B24A-4441-88D8-2F0EEC62C647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B459F1-B24A-4441-88D8-2F0EEC62C647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B459F1-B24A-4441-88D8-2F0EEC62C647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B459F1-B24A-4441-88D8-2F0EEC62C647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED20003-FC97-4BA8-B99E-3D83F998A7B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED20003-FC97-4BA8-B99E-3D83F998A7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED20003-FC97-4BA8-B99E-3D83F998A7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED20003-FC97-4BA8-B99E-3D83F998A7B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08D52645-F723-4195-B429-E1F0AF7B634A}
+	EndGlobalSection
+EndGlobal
