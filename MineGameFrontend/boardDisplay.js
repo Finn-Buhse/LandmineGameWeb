@@ -1,12 +1,3 @@
-const boardHTML = "\
-<div class='grid-container'>\n\
-    <div class='two'>Two</div>\n\
-    <div class='three'>Three</div>\n\
-    <div class='four'>Four</div>\n\
-    <div class='five'>Five</div>\n\
-    <div class='six'>Six</div>\n\
-</div>";
-
 class BoardDisplay extends HTMLDivElement
 {
     static observedAttributes = ["width", "height"]
