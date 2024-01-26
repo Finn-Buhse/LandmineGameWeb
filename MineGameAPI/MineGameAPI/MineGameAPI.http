@@ -1,6 +1,0 @@
-@MineGameAPI_HostAddress = https://localhost:7298
-
-PUT {{MineGameAPI_HostAddress}}/MineGameInitialise?width=8&height=8
-Accept: */*
-
-###
