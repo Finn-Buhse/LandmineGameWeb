@@ -157,6 +157,7 @@ class BoardDisplay extends HTMLDivElement
 
     generateGridCSS(width, height)
     {
+        // Table uses two columns for the Y axis and one row for the X axis so the axis labels are distinguishable
         return "display: grid; grid-template-columns: 20px 20px repeat(" + width.toString() + ", 50px); grid-template-rows: repeat(" + height.toString() + ", 50px) 30px;";
     }
 
