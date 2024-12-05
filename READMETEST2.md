@@ -679,7 +679,7 @@ Run the test suite using the following command:
 1. **Fork the Repository**: Start by forking the project repository to your LOCAL account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone /home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI
+   git clone /home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
