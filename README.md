@@ -1,22 +1,19 @@
-<div align="left" style="position: relative;">
-<img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-readme-is-a-easy-to-build-a-developer-hub-that-adapts-to-the-user-logo-regular-tal-revivo.png" align="right" width="30%" style="margin: -20px 0 0 20px;">
-<h1>LANDMINEGAMEWEB</h1>
-<p align="left">
+<p align="center">
+    <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-readme-is-a-easy-to-build-a-developer-hub-that-adapts-to-the-user-logo-regular-tal-revivo.png" align="center" width="30%">
+</p>
+<p align="center"><h1 align="center">LANDMINEGAMEWEB</h1></p>
+<p align="center">
 	<em><code>❯ REPLACE-ME</code></em>
 </p>
-<p align="left">
-	<img src="https://img.shields.io/github/license/Finn-Buhse/LandmineGameWeb?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Finn-Buhse/LandmineGameWeb?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Finn-Buhse/LandmineGameWeb?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Finn-Buhse/LandmineGameWeb?style=default&color=0080ff" alt="repo-language-count">
+<p align="center">
+	<!-- local repository, no metadata badges. --></p>
+<p align="center">Built with the tools and technologies:</p>
+<p align="center">
+	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=default&logo=HTML5&logoColor=white" alt="HTML5">
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=default&logo=JavaScript&logoColor=black" alt="JavaScript">
+	<img src="https://img.shields.io/badge/NuGet-004880.svg?style=default&logo=NuGet&logoColor=white" alt="NuGet">
 </p>
-<p align="left"><!-- default option, no dependency badges. -->
-</p>
-<p align="left">
-	<!-- default option, no dependency badges. -->
-</p>
-</div>
-<br clear="right">
+<br>
 
 ##  Table of Contents
 
@@ -52,18 +49,6 @@
 
 ```sh
 └── LandmineGameWeb/
-    ├── LICENSE.txt
-    ├── MineGameAPI
-    │   ├── .vs
-    │   ├── MineGameAPI
-    │   ├── MineGameAPI.sln
-    │   └── Test
-    ├── MineGameFrontend
-    │   ├── Images
-    │   ├── boardDisplay.js
-    │   ├── landmineGame.js
-    │   └── landmineGameWebpage.html
-    └── README.md
 ```
 
 
@@ -75,7 +60,7 @@
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/LICENSE.txt'>LICENSE.txt</a></b></td>
+				<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/LICENSE.txt'>LICENSE.txt</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
@@ -86,15 +71,15 @@
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameFrontend/boardDisplay.js'>boardDisplay.js</a></b></td>
+				<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameFrontend/landmineGameWebpage.html'>landmineGameWebpage.html</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameFrontend/landmineGame.js'>landmineGame.js</a></b></td>
+				<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameFrontend/boardDisplay.js'>boardDisplay.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameFrontend/landmineGameWebpage.html'>landmineGameWebpage.html</a></b></td>
+				<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameFrontend/landmineGame.js'>landmineGame.js</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
@@ -105,7 +90,7 @@
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI.sln'>MineGameAPI.sln</a></b></td>
+				<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI.sln'>MineGameAPI.sln</a></b></td>
 				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
@@ -114,60 +99,83 @@
 				<blockquote>
 					<table>
 					<tr>
-						<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/Test.csproj'>Test.csproj</a></b></td>
+						<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/Test.csproj'>Test.csproj</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/PlayerTests.cs'>PlayerTests.cs</a></b></td>
+						<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/PlayerTests.cs'>PlayerTests.cs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/LandmineGameTests.cs'>LandmineGameTests.cs</a></b></td>
+						<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/BoardTests.cs'>BoardTests.cs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/RandomGeneratorTests.cs'>RandomGeneratorTests.cs</a></b></td>
+						<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/GlobalUsings.cs'>GlobalUsings.cs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/GlobalUsings.cs'>GlobalUsings.cs</a></b></td>
+						<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/LandmineGameTests.cs'>LandmineGameTests.cs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/BoardTests.cs'>BoardTests.cs</a></b></td>
+						<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/RandomGeneratorTests.cs'>RandomGeneratorTests.cs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
+					<details>
+						<summary><b>Source</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/Source/LandmineGame.cs'>LandmineGame.cs</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/Source/Board.cs'>Board.cs</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/Source/Player.cs'>Player.cs</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/Source/RandomGenerator.cs'>RandomGenerator.cs</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
 					<details>
 						<summary><b>obj</b></summary>
 						<blockquote>
 							<table>
 							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/project.assets.json'>project.assets.json</a></b></td>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Test.csproj.nuget.dgspec.json'>Test.csproj.nuget.dgspec.json</a></b></td>
 								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Testing.csproj.nuget.g.targets'>Testing.csproj.nuget.g.targets</a></b></td>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Testing.csproj.nuget.g.props'>Testing.csproj.nuget.g.props</a></b></td>
 								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Test.csproj.nuget.dgspec.json'>Test.csproj.nuget.dgspec.json</a></b></td>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Testing.csproj.nuget.dgspec.json'>Testing.csproj.nuget.dgspec.json</a></b></td>
 								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Testing.csproj.nuget.dgspec.json'>Testing.csproj.nuget.dgspec.json</a></b></td>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Testing.csproj.nuget.g.targets'>Testing.csproj.nuget.g.targets</a></b></td>
 								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Testing.csproj.nuget.g.props'>Testing.csproj.nuget.g.props</a></b></td>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Test.csproj.nuget.g.targets'>Test.csproj.nuget.g.targets</a></b></td>
 								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Test.csproj.nuget.g.targets'>Test.csproj.nuget.g.targets</a></b></td>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Test.csproj.nuget.g.props'>Test.csproj.nuget.g.props</a></b></td>
 								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Test.csproj.nuget.g.props'>Test.csproj.nuget.g.props</a></b></td>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/project.assets.json'>project.assets.json</a></b></td>
 								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
@@ -179,63 +187,63 @@
 										<blockquote>
 											<table>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.pdb'>Test.pdb</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.AssemblyInfo.cs'>Testing.AssemblyInfo.cs</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.GlobalUsings.g.cs'>Testing.GlobalUsings.g.cs</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.csproj.BuildWithSkipAnalyzers'>Test.csproj.BuildWithSkipAnalyzers</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.csproj.BuildWithSkipAnalyzers'>Testing.csproj.BuildWithSkipAnalyzers</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.csproj.FileListAbsolute.txt'>Testing.csproj.FileListAbsolute.txt</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.csproj.CopyComplete'>Test.csproj.CopyComplete</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.GeneratedMSBuildEditorConfig.editorconfig'>Testing.GeneratedMSBuildEditorConfig.editorconfig</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.csproj.FileListAbsolute.txt'>Test.csproj.FileListAbsolute.txt</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.pdb'>Testing.pdb</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.GlobalUsings.g.cs'>Test.GlobalUsings.g.cs</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs'>.NETCoreApp,Version=v8.0.AssemblyAttributes.cs</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.AssemblyInfo.cs'>Testing.AssemblyInfo.cs</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.csproj.CopyComplete'>Test.csproj.CopyComplete</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.GeneratedMSBuildEditorConfig.editorconfig'>Test.GeneratedMSBuildEditorConfig.editorconfig</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.GeneratedMSBuildEditorConfig.editorconfig'>Test.GeneratedMSBuildEditorConfig.editorconfig</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.pdb'>Testing.pdb</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.GlobalUsings.g.cs'>Testing.GlobalUsings.g.cs</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.csproj.CopyComplete'>Testing.csproj.CopyComplete</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.pdb'>Test.pdb</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.GeneratedMSBuildEditorConfig.editorconfig'>Testing.GeneratedMSBuildEditorConfig.editorconfig</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.AssemblyInfo.cs'>Test.AssemblyInfo.cs</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.AssemblyInfo.cs'>Test.AssemblyInfo.cs</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.csproj.CopyComplete'>Testing.csproj.CopyComplete</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.csproj.FileListAbsolute.txt'>Testing.csproj.FileListAbsolute.txt</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.csproj.FileListAbsolute.txt'>Test.csproj.FileListAbsolute.txt</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs'>.NETCoreApp,Version=v8.0.AssemblyAttributes.cs</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.GlobalUsings.g.cs'>Test.GlobalUsings.g.cs</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Test.csproj.BuildWithSkipAnalyzers'>Test.csproj.BuildWithSkipAnalyzers</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/obj/Debug/net8.0/Testing.csproj.BuildWithSkipAnalyzers'>Testing.csproj.BuildWithSkipAnalyzers</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											</table>
@@ -243,29 +251,6 @@
 									</details>
 								</blockquote>
 							</details>
-						</blockquote>
-					</details>
-					<details>
-						<summary><b>Source</b></summary>
-						<blockquote>
-							<table>
-							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/Source/Board.cs'>Board.cs</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/Source/RandomGenerator.cs'>RandomGenerator.cs</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/Source/LandmineGame.cs'>LandmineGame.cs</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/Source/Player.cs'>Player.cs</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							</table>
 						</blockquote>
 					</details>
 					<details>
@@ -279,27 +264,27 @@
 										<blockquote>
 											<table>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/bin/Debug/net8.0/Test.pdb'>Test.pdb</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/bin/Debug/net8.0/Test.deps.json'>Test.deps.json</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/bin/Debug/net8.0/Test.runtimeconfig.json'>Test.runtimeconfig.json</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/bin/Debug/net8.0/Testing.runtimeconfig.json'>Testing.runtimeconfig.json</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/bin/Debug/net8.0/Testing.pdb'>Testing.pdb</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/bin/Debug/net8.0/Testing.pdb'>Testing.pdb</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/bin/Debug/net8.0/Test.deps.json'>Test.deps.json</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/bin/Debug/net8.0/Testing.deps.json'>Testing.deps.json</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/bin/Debug/net8.0/Testing.deps.json'>Testing.deps.json</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/bin/Debug/net8.0/Test.pdb'>Test.pdb</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/Test/bin/Debug/net8.0/Testing.runtimeconfig.json'>Testing.runtimeconfig.json</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/Test/bin/Debug/net8.0/Test.runtimeconfig.json'>Test.runtimeconfig.json</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											</table>
@@ -316,23 +301,23 @@
 				<blockquote>
 					<table>
 					<tr>
-						<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/appsettings.Development.json'>appsettings.Development.json</a></b></td>
+						<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/appsettings.json'>appsettings.json</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/appsettings.json'>appsettings.json</a></b></td>
+						<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/Program.cs'>Program.cs</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/Program.cs'>Program.cs</a></b></td>
+						<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/MineGameAPI.csproj.user'>MineGameAPI.csproj.user</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/MineGameAPI.csproj'>MineGameAPI.csproj</a></b></td>
+						<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/MineGameAPI.csproj'>MineGameAPI.csproj</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/MineGameAPI.csproj.user'>MineGameAPI.csproj.user</a></b></td>
+						<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/appsettings.Development.json'>appsettings.Development.json</a></b></td>
 						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
@@ -341,19 +326,19 @@
 						<blockquote>
 							<table>
 							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/MineGameAPI.csproj.nuget.g.targets'>MineGameAPI.csproj.nuget.g.targets</a></b></td>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/MineGameAPI.csproj.nuget.g.targets'>MineGameAPI.csproj.nuget.g.targets</a></b></td>
 								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/project.assets.json'>project.assets.json</a></b></td>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/MineGameAPI.csproj.nuget.g.props'>MineGameAPI.csproj.nuget.g.props</a></b></td>
 								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/MineGameAPI.csproj.nuget.g.props'>MineGameAPI.csproj.nuget.g.props</a></b></td>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/project.assets.json'>project.assets.json</a></b></td>
 								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/MineGameAPI.csproj.nuget.dgspec.json'>MineGameAPI.csproj.nuget.dgspec.json</a></b></td>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/MineGameAPI.csproj.nuget.dgspec.json'>MineGameAPI.csproj.nuget.dgspec.json</a></b></td>
 								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
@@ -365,43 +350,43 @@
 										<blockquote>
 											<table>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.csproj.CopyComplete'>MineGameAPI.csproj.CopyComplete</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.csproj.CopyComplete'>MineGameAPI.csproj.CopyComplete</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/staticwebassets.build.json'>staticwebassets.build.json</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.csproj.FileListAbsolute.txt'>MineGameAPI.csproj.FileListAbsolute.txt</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.MvcApplicationPartsAssemblyInfo.cs'>MineGameAPI.MvcApplicationPartsAssemblyInfo.cs</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/staticwebassets.build.json'>staticwebassets.build.json</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.csproj.FileListAbsolute.txt'>MineGameAPI.csproj.FileListAbsolute.txt</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.pdb'>MineGameAPI.pdb</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.GeneratedMSBuildEditorConfig.editorconfig'>MineGameAPI.GeneratedMSBuildEditorConfig.editorconfig</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.MvcApplicationPartsAssemblyInfo.cs'>MineGameAPI.MvcApplicationPartsAssemblyInfo.cs</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.csproj.BuildWithSkipAnalyzers'>MineGameAPI.csproj.BuildWithSkipAnalyzers</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs'>.NETCoreApp,Version=v8.0.AssemblyAttributes.cs</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.AssemblyInfo.cs'>MineGameAPI.AssemblyInfo.cs</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.GeneratedMSBuildEditorConfig.editorconfig'>MineGameAPI.GeneratedMSBuildEditorConfig.editorconfig</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs'>.NETCoreApp,Version=v8.0.AssemblyAttributes.cs</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.GlobalUsings.g.cs'>MineGameAPI.GlobalUsings.g.cs</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.GlobalUsings.g.cs'>MineGameAPI.GlobalUsings.g.cs</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.csproj.BuildWithSkipAnalyzers'>MineGameAPI.csproj.BuildWithSkipAnalyzers</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.pdb'>MineGameAPI.pdb</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/MineGameAPI.AssemblyInfo.cs'>MineGameAPI.AssemblyInfo.cs</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											</table>
@@ -410,15 +395,15 @@
 												<blockquote>
 													<table>
 													<tr>
-														<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MineGameAPI.props'>msbuild.buildTransitive.MineGameAPI.props</a></b></td>
+														<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MineGameAPI.props'>msbuild.buildMultiTargeting.MineGameAPI.props</a></b></td>
 														<td><code>❯ REPLACE-ME</code></td>
 													</tr>
 													<tr>
-														<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MineGameAPI.props'>msbuild.buildMultiTargeting.MineGameAPI.props</a></b></td>
+														<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.MineGameAPI.props'>msbuild.build.MineGameAPI.props</a></b></td>
 														<td><code>❯ REPLACE-ME</code></td>
 													</tr>
 													<tr>
-														<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.MineGameAPI.props'>msbuild.build.MineGameAPI.props</a></b></td>
+														<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MineGameAPI.props'>msbuild.buildTransitive.MineGameAPI.props</a></b></td>
 														<td><code>❯ REPLACE-ME</code></td>
 													</tr>
 													</table>
@@ -435,7 +420,18 @@
 						<blockquote>
 							<table>
 							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/Controllers/MineGameController.cs'>MineGameController.cs</a></b></td>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/Controllers/MineGameController.cs'>MineGameController.cs</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+					<details>
+						<summary><b>Properties</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/Properties/launchSettings.json'>launchSettings.json</a></b></td>
 								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
@@ -452,35 +448,35 @@
 										<blockquote>
 											<table>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/Test.pdb'>Test.pdb</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/Test.deps.json'>Test.deps.json</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/Test.runtimeconfig.json'>Test.runtimeconfig.json</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/MineGameAPI.pdb'>MineGameAPI.pdb</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/Test.deps.json'>Test.deps.json</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/appsettings.json'>appsettings.json</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/appsettings.Development.json'>appsettings.Development.json</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/MineGameAPI.runtimeconfig.json'>MineGameAPI.runtimeconfig.json</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/appsettings.json'>appsettings.json</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/Test.pdb'>Test.pdb</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/MineGameAPI.runtimeconfig.json'>MineGameAPI.runtimeconfig.json</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/Test.runtimeconfig.json'>Test.runtimeconfig.json</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/MineGameAPI.deps.json'>MineGameAPI.deps.json</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/appsettings.Development.json'>appsettings.Development.json</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											<tr>
-												<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/MineGameAPI.pdb'>MineGameAPI.pdb</a></b></td>
+												<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/bin/Debug/net8.0/MineGameAPI.deps.json'>MineGameAPI.deps.json</a></b></td>
 												<td><code>❯ REPLACE-ME</code></td>
 											</tr>
 											</table>
@@ -490,58 +486,46 @@
 							</details>
 						</blockquote>
 					</details>
-					<details>
-						<summary><b>Properties</b></summary>
-						<blockquote>
-							<table>
-							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/MineGameAPI/Properties/launchSettings.json'>launchSettings.json</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							</table>
-						</blockquote>
-					</details>
 				</blockquote>
 			</details>
 			<details>
 				<summary><b>.vs</b></summary>
 				<blockquote>
 					<details>
+						<summary><b>ProjectEvaluation</b></summary>
+						<blockquote>
+							<table>
+							<tr>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/.vs/ProjectEvaluation/minegameapi.projects.v7.bin'>minegameapi.projects.v7.bin</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							<tr>
+								<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/.vs/ProjectEvaluation/minegameapi.metadata.v7.bin'>minegameapi.metadata.v7.bin</a></b></td>
+								<td><code>❯ REPLACE-ME</code></td>
+							</tr>
+							</table>
+						</blockquote>
+					</details>
+					<details>
 						<summary><b>MineGameAPI</b></summary>
 						<blockquote>
 							<details>
-								<summary><b>config</b></summary>
+								<summary><b>DesignTimeBuild</b></summary>
 								<blockquote>
 									<table>
 									<tr>
-										<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/config/applicationhost.config'>applicationhost.config</a></b></td>
+										<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/DesignTimeBuild/.dtbcache.v2'>.dtbcache.v2</a></b></td>
 										<td><code>❯ REPLACE-ME</code></td>
 									</tr>
 									</table>
 								</blockquote>
 							</details>
 							<details>
-								<summary><b>FileContentIndex</b></summary>
+								<summary><b>config</b></summary>
 								<blockquote>
 									<table>
 									<tr>
-										<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/FileContentIndex/00c0a3ad-f873-4066-b6d3-a281445c1896.vsidx'>00c0a3ad-f873-4066-b6d3-a281445c1896.vsidx</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
-									</tr>
-									<tr>
-										<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/FileContentIndex/7126ad13-d843-485a-bde2-7c00fb50b955.vsidx'>7126ad13-d843-485a-bde2-7c00fb50b955.vsidx</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
-									</tr>
-									<tr>
-										<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/FileContentIndex/e1751922-9bf0-409f-a467-da43eec6839b.vsidx'>e1751922-9bf0-409f-a467-da43eec6839b.vsidx</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
-									</tr>
-									<tr>
-										<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/FileContentIndex/2f695f90-4938-4713-99fa-c78fa729a719.vsidx'>2f695f90-4938-4713-99fa-c78fa729a719.vsidx</a></b></td>
-										<td><code>❯ REPLACE-ME</code></td>
-									</tr>
-									<tr>
-										<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/FileContentIndex/280bf942-3375-4375-8c0c-886002e733d2.vsidx'>280bf942-3375-4375-8c0c-886002e733d2.vsidx</a></b></td>
+										<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/config/applicationhost.config'>applicationhost.config</a></b></td>
 										<td><code>❯ REPLACE-ME</code></td>
 									</tr>
 									</table>
@@ -552,11 +536,11 @@
 								<blockquote>
 									<table>
 									<tr>
-										<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/v17/.futdcache.v2'>.futdcache.v2</a></b></td>
+										<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/v17/.futdcache.v2'>.futdcache.v2</a></b></td>
 										<td><code>❯ REPLACE-ME</code></td>
 									</tr>
 									<tr>
-										<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/v17/.suo'>.suo</a></b></td>
+										<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/v17/.suo'>.suo</a></b></td>
 										<td><code>❯ REPLACE-ME</code></td>
 									</tr>
 									</table>
@@ -568,11 +552,11 @@
 												<blockquote>
 													<table>
 													<tr>
-														<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/v17/TestStore/0/testlog.manifest'>testlog.manifest</a></b></td>
+														<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/v17/TestStore/0/009.testlog'>009.testlog</a></b></td>
 														<td><code>❯ REPLACE-ME</code></td>
 													</tr>
 													<tr>
-														<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/v17/TestStore/0/009.testlog'>009.testlog</a></b></td>
+														<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/v17/TestStore/0/testlog.manifest'>testlog.manifest</a></b></td>
 														<td><code>❯ REPLACE-ME</code></td>
 													</tr>
 													</table>
@@ -583,31 +567,32 @@
 								</blockquote>
 							</details>
 							<details>
-								<summary><b>DesignTimeBuild</b></summary>
+								<summary><b>FileContentIndex</b></summary>
 								<blockquote>
 									<table>
 									<tr>
-										<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/DesignTimeBuild/.dtbcache.v2'>.dtbcache.v2</a></b></td>
+										<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/FileContentIndex/2f695f90-4938-4713-99fa-c78fa729a719.vsidx'>2f695f90-4938-4713-99fa-c78fa729a719.vsidx</a></b></td>
+										<td><code>❯ REPLACE-ME</code></td>
+									</tr>
+									<tr>
+										<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/FileContentIndex/280bf942-3375-4375-8c0c-886002e733d2.vsidx'>280bf942-3375-4375-8c0c-886002e733d2.vsidx</a></b></td>
+										<td><code>❯ REPLACE-ME</code></td>
+									</tr>
+									<tr>
+										<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/FileContentIndex/e1751922-9bf0-409f-a467-da43eec6839b.vsidx'>e1751922-9bf0-409f-a467-da43eec6839b.vsidx</a></b></td>
+										<td><code>❯ REPLACE-ME</code></td>
+									</tr>
+									<tr>
+										<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/FileContentIndex/00c0a3ad-f873-4066-b6d3-a281445c1896.vsidx'>00c0a3ad-f873-4066-b6d3-a281445c1896.vsidx</a></b></td>
+										<td><code>❯ REPLACE-ME</code></td>
+									</tr>
+									<tr>
+										<td><b><a href='/home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb/blob/master/MineGameAPI/.vs/MineGameAPI/FileContentIndex/7126ad13-d843-485a-bde2-7c00fb50b955.vsidx'>7126ad13-d843-485a-bde2-7c00fb50b955.vsidx</a></b></td>
 										<td><code>❯ REPLACE-ME</code></td>
 									</tr>
 									</table>
 								</blockquote>
 							</details>
-						</blockquote>
-					</details>
-					<details>
-						<summary><b>ProjectEvaluation</b></summary>
-						<blockquote>
-							<table>
-							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/.vs/ProjectEvaluation/minegameapi.metadata.v7.bin'>minegameapi.metadata.v7.bin</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							<tr>
-								<td><b><a href='https://github.com/Finn-Buhse/LandmineGameWeb/blob/master/MineGameAPI/.vs/ProjectEvaluation/minegameapi.projects.v7.bin'>minegameapi.projects.v7.bin</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
-							</tr>
-							</table>
 						</blockquote>
 					</details>
 				</blockquote>
@@ -635,7 +620,7 @@ Install LandmineGameWeb using one of the following methods:
 
 1. Clone the LandmineGameWeb repository:
 ```sh
-❯ git clone https://github.com/Finn-Buhse/LandmineGameWeb
+❯ git clone ../LandmineGameWeb
 ```
 
 2. Navigate to the project directory:
@@ -684,17 +669,17 @@ Run the test suite using the following command:
 
 ##  Contributing
 
-- **💬 [Join the Discussions](https://github.com/Finn-Buhse/LandmineGameWeb/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/Finn-Buhse/LandmineGameWeb/issues)**: Submit bugs found or log feature requests for the `LandmineGameWeb` project.
-- **💡 [Submit Pull Requests](https://github.com/Finn-Buhse/LandmineGameWeb/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **💬 [Join the Discussions](https://LOCAL/ReadmeGeneratationAI/LandmineGameWeb/discussions)**: Share your insights, provide feedback, or ask questions.
+- **🐛 [Report Issues](https://LOCAL/ReadmeGeneratationAI/LandmineGameWeb/issues)**: Submit bugs found or log feature requests for the `LandmineGameWeb` project.
+- **💡 [Submit Pull Requests](https://LOCAL/ReadmeGeneratationAI/LandmineGameWeb/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
 
-1. **Fork the Repository**: Start by forking the project repository to your github account.
+1. **Fork the Repository**: Start by forking the project repository to your LOCAL account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/Finn-Buhse/LandmineGameWeb
+   git clone /home/runner/work/ReadmeGeneratationAI/ReadmeGeneratationAI/LandmineGameWeb
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -705,7 +690,7 @@ Run the test suite using the following command:
    ```sh
    git commit -m 'Implemented new feature x.'
    ```
-6. **Push to github**: Push the changes to your forked repository.
+6. **Push to LOCAL**: Push the changes to your forked repository.
    ```sh
    git push origin new-feature-x
    ```
@@ -717,8 +702,8 @@ Run the test suite using the following command:
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com{/Finn-Buhse/LandmineGameWeb/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=Finn-Buhse/LandmineGameWeb">
+   <a href="https://LOCAL{/ReadmeGeneratationAI/LandmineGameWeb/}graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=ReadmeGeneratationAI/LandmineGameWeb">
    </a>
 </p>
 </details>
