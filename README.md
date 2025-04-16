@@ -118,7 +118,7 @@ dotnet test
 ## Roadmap
 
 - [X] **`Task 1`**: <strike>Implement a working prototype.</strike>
-- [ ] **`Task 2`**: Implement the ability for concurrent games using the same API instance.
+- [ ] **`Task 2`**: Implement the ability to run concurrent games using the same API instance.
 
 ---
 
