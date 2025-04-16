@@ -1,4 +1,7 @@
+/MineGameAPI/MineGameAPI/bin
+/MineGameAPI/MineGameAPI/obj
+/MineGameAPI/Test/bin
+/MineGameAPI/Test/obj
+/MineGameAPI/.vs
 
-MineGameAPI/Test/obj
-MineGameAPI/MineGameAPI/obj
-MineGameFrontendReact/node_modules
+/MineGameFrontendReact/node_modules

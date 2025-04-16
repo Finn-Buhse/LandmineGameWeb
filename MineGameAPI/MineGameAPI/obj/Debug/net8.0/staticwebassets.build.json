@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "kg77p7nBCsWkV5VkS4x/Rg0TMmcl5n7UYXDAw+fgIBQ=",
+  "Hash": "odzdfkpNSL3G3MROLSNrQI1+rCjpXEfNHdJ3ifBLtq8=",
   "Source": "MineGameAPI",
   "BasePath": "_content/MineGameAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

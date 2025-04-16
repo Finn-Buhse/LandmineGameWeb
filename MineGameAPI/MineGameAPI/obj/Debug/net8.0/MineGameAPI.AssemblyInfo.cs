@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MineGameAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d979b505433b0c62be5042a35acf26e5ada2cff")]
 [assembly: System.Reflection.AssemblyProductAttribute("MineGameAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MineGameAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

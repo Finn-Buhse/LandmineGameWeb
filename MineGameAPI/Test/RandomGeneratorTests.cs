@@ -24,9 +24,9 @@ namespace Testing
         }
         public void thenCallingGetNumberOnGeneratorUsingMaximumEqualToMinimumPlusOneReturnsMinimum()
         {
-            // Try this one hundred times
-            // If the bounds really are off, the generator could return the correct number every time out of luck instead of being properly contrained
-            // This minimises the chances of that happening, however it's still questionable whether to include such a test
+            // Generate the number 100 times as
+            // the generator could return the correct number by coincidence instead of being properly contrained.
+            // This minimises the chances of that happening.
             for (int i = 0; i < 100; i++) 
             {
                 Assert.AreEqual(randomGenerator1!.getRandom(5, 6), 5);
