@@ -46,7 +46,7 @@
 
 ## Overview
 
-LandmineGameWeb is a web-based landmine game with a .NET back-end and JavaScript front-end.
+LandmineGameWeb is a web-based landmine game with a .NET back-end and React front-end.
 
 ---
 
